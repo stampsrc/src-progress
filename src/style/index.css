@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-color: #181818 !important;
+}
+table {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+h1 {
+  font-family: 'Press Start 2P', sans-serif;
+}
